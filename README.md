@@ -6,6 +6,7 @@ My personal collection of agent skills for any agent that supports `SKILL.md`.
 
 | Skill | Description |
 |-------|-------------|
+| [code-like-aniket](code-like-aniket/SKILL.md) | Implement with clear orchestration, strong interfaces, and happy-path-first design |
 | [daily-log](daily-log/SKILL.md) | Maintain a personal daily work log in plain simple English, one file per day. |
 
 ## Install
