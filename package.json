@@ -1,0 +1,10 @@
+{
+  "name": "aniketpatidar-skills",
+  "version": "1.0.0",
+  "description": "Personal collection of AI agent skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aniketpatidar/skills"
+  },
+  "license": "MIT"
+}

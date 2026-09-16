@@ -11,22 +11,27 @@ My personal collection of agent skills for any agent that supports `SKILL.md`. T
 | Skill | Description |
 |-------|-------------|
 | [code-like-aniket](code-like-aniket/SKILL.md) | Implement with clear orchestration, strong interfaces, and happy-path-first design |
+| [create-a-strong-resume](create-a-strong-resume/SKILL.md) | Build, tailor, review high-impact ATS resumes |
 | [daily-log](daily-log/SKILL.md) | Maintain a personal daily work log in plain simple English, one file per day. |
 
 ## Installation
 
-Clone the repository to your local machine:
+Install skills into your agent (Claude Code, Cursor, Antigravity, etc.):
 
 ```bash
-git clone https://github.com/aniketpatidar/skills.git
+npx skills@latest add aniketpatidar/skills
 ```
 
-Then copy or symlink the skills you want to your agent's skills directory. 
-Symlinking is recommended so updates pull in automatically:
+To install a specific skill only:
 
 ```bash
-cd skills
-ln -s "$(pwd)/daily-log" /path/to/agent/skills/daily-log
+npx skills@latest add aniketpatidar/skills --skill create-a-strong-resume
+```
+
+To update installed skills:
+
+```bash
+npx skills update
 ```
 
 ## Usage
