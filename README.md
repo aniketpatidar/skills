@@ -11,7 +11,7 @@ My personal collection of agent skills for any agent that supports `SKILL.md`. T
 | Skill | Description |
 |-------|-------------|
 | [code-like-aniket](code-like-aniket/SKILL.md) | Implement with clear orchestration, strong interfaces, and happy-path-first design |
-| [create-a-strong-resume](create-a-strong-resume/SKILL.md) | Build, tailor, review high-impact ATS resumes |
+| [create-a-strong-resume](create-a-strong-resume/SKILL.md) | Build, tailor, and fact-check developer resumes that are all signal, no noise |
 | [daily-log](daily-log/SKILL.md) | Maintain a personal daily work log in plain simple English, one file per day. |
 
 ## Installation
