@@ -2,6 +2,8 @@
 
 Unified reference containing career services resume samples and editable layout templates in Markdown.
 
+> These are general student samples. For developer resumes, `SKILL.md` wins where they conflict: never label skill levels ("intermediate", "beginner"), leave out interests and high school once there is a degree, and use first-person narrative in About and Projects.
+
 ## Table of Contents
 
 - [Sample Resumes](#sample-resumes)

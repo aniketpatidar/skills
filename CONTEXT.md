@@ -16,4 +16,5 @@ The standalone lexical reference (`ACTION-WORDS.md`) categorizing strong action 
 ### Resume Samples Module
 A single consolidated reference file (`REFERENCE.md`) holding verbatim domain samples (Tech/CS, Engineering, General, Specialized) and layout templates (bullet-point and narrative).
 
-
+### Developer Examples Module
+Bad-vs-good examples (`DEVELOPER-EXAMPLES.md`) for each developer resume section: Contact, About, Skills, Experience, Open Source, Projects, Education. All fictional.
